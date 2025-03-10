@@ -1,0 +1,22 @@
+package SOLID_Principle.v2;
+//package SOLID_Bird.v1;
+
+public class Penguin extends Bird {
+
+    @Override
+    public void makeSound() {
+        System.out.println("gutur");
+    }
+
+
+//    @Override
+//    public void fly() {
+//        //leave it empty
+//        //throw exception
+//        //or
+//        System.out.println("Can not Fly");
+//    }
+}
+
+
+
