@@ -2,7 +2,7 @@ package SOLID_Principle.v5;
 
 public class Sparrow extends Bird implements Flyable {
 	
-	FlyingBehaviour flyLow=new LowFly();
+	private FlyingBehaviour flyLow=new LowFly();
 	public void fly() {
 		flyLow.doFly();
 	}
