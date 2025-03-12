@@ -2,9 +2,9 @@ package SOLID_Principle.v5;
 
 public class Client {
     public static void main(String[] args) {
-        Bird sparrow=new Sparrow();
+        Sparrow sparrow=new Sparrow();
         sparrow.makeSound();
-//        sparrow.f
+        sparrow.fly();
 
         Bird penguin= new Penguin();
         penguin.makeSound();
