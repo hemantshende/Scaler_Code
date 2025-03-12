@@ -1,0 +1,16 @@
+Index: src/Prototype_Registry/Client.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Prototype_Registry;\r\n\r\npublic class Client {\r\n    public static void main(String[] args) {\r\n        Student st=new Student(\"hemant\",29, \"Apr23\");\r\n\r\n//        this is copying the ref\r\n//        Student st2=st1;\r\n\r\n        StudentRegistry studentRegistry=new StudentRegistry();\r\n        studentRegistry.fillRegistry();//prev defined content will be added\r\n\r\n        Student st1=studentRegistry.get(\"Apr23\");\r\n        st1.setName(\"mohit\");\r\n\r\n    }\r\n}\r\n
+===================================================================
+diff --git a/src/Prototype_Registry/Client.java b/src/Prototype_Registry/Client.java
+--- a/src/Prototype_Registry/Client.java	(revision 065193739d938bddadaf0a83f86a6406818a7895)
++++ b/src/Prototype_Registry/Client.java	(date 1741776050852)
+@@ -11,6 +11,7 @@
+         studentRegistry.fillRegistry();//prev defined content will be added
+ 
+         Student st1=studentRegistry.get("Apr23");
++        System.out.println();
+         st1.setName("mohit");
+ 
+     }
