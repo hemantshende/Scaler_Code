@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbeaf107-20c2-46c2-8b3e-0f6e3b8f5cc6" name="Changes" comment="added student registry..created add() remove() and get() method..." />
+    <list default="true" id="1687971b-5fea-4504-89fe-bc07add6f40e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,25 +50,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Client.executor": "Run",
-    "Application.Client_for_custom_functional_interface.executor": "Run",
-    "Application.Design_patterns.Builder.v1_getBuilerMethod.Client.executor": "Run",
-    "Application.Design_patterns.Builder.v3_chaining.Client.executor": "Run",
-    "Application.Design_patterns.Builder.v5_Inner_Class.Client.executor": "Run",
-    "Application.LabdasComparator.executor": "Run",
-    "Application.LambadRunnable.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Prototype_Registry.Client.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/admin/OneDrive/Desktop/hemant/CODE PRACTICE/Scaler_Coding_1/src/SOLID_Principle/v5",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Client_for_custom_functional_interface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Design_patterns.Builder.v1_getBuilerMethod.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Design_patterns.Builder.v3_chaining.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Design_patterns.Builder.v5_Inner_Class.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LabdasComparator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambadRunnable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prototype_Registry.Client.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/OneDrive/Desktop/hemant/CODE PRACTICE/Scaler_Coding_1/src/SOLID_Principle/v5&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\OneDrive\Desktop\hemant\CODE PRACTICE\Scaler_Coding_1\src\SOLID_Principle\v5" />
