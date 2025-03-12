@@ -8,7 +8,9 @@ public class Sparrow extends Bird implements Flyable {
 	}
 
 	public void makeSound() {
-		System.out.println("gutur");
+//		System.out.println("gutur");
+		System.out.println();
 	}
+
 
 }
