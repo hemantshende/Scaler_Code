@@ -1,4 +1,4 @@
-package Prototype_Registry;
+package Design_patterns.Prototype_Registry;
 
 import java.util.HashMap;
 

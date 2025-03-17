@@ -1,4 +1,4 @@
-package Prototype_Registry;
+package Design_patterns.Prototype_Registry;
 
 public class Student implements Prototype<Student> {
     private String name;
@@ -39,7 +39,6 @@ public class Student implements Prototype<Student> {
     Student(Student st){
         this.age=st.age;
         this.name=st.name;
-//        this.batch=st.batch;
     }
 
     @Override

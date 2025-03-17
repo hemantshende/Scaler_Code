@@ -1,4 +1,4 @@
-package Prototype_Registry;
+package Design_patterns.Prototype_Registry;
 
 public class Client {
     public static void main(String[] args) {
