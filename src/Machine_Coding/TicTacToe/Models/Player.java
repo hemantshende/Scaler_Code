@@ -1,4 +1,40 @@
 package Machine_Coding.TicTacToe.Models;
 
 public class Player {
+    private Integer id;
+    private String name;
+    private Player_Type playerType;
+    private Symbol symbol;
+
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public Player_Type getPlayerType() {
+        return playerType;
+    }
+
+    public void setPlayerType(Player_Type playerType) {
+        this.playerType = playerType;
+    }
+
+    public Symbol getSymbol() {
+        return symbol;
+    }
+
+    public void setSymbol(Symbol symbol) {
+        this.symbol = symbol;
+    }
 }
