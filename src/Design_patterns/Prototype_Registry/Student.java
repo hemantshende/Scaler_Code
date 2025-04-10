@@ -45,4 +45,5 @@ public class Student implements Prototype<Student> {
     public Student copy() {
         return new Student(this);
     }
+
 }

@@ -4,17 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52a97da0-1c8b-4da7-8890-f830f40a5163" name="Changes" comment="dsa practice kadence algo added..">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="52a97da0-1c8b-4da7-8890-f830f40a5163" name="Changes" comment="some code//.">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-03-2025_16_11_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-03-2025_16_11_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Prototype_Registry/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Prototype_Registry/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Prototype_Registry/StudentRegistry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Prototype_Registry/StudentRegistry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/SOLID_Principle/v5/Sparrow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/SOLID_Principle/v5/Sparrow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdvanceDSA_1/Kedanc_Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvanceDSA_1/One_direction/Kedanc_Algorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Factory/UI_Platform/Platform.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Prototype_Registry/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Prototype_Registry/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Prototype_Registry/IntelligentStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Prototype_Registry/IntelligentStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Prototype_Registry/StudentRegistry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Prototype_Registry/StudentRegistry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Prototype_Registry/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Prototype_Registry/IntelligentStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Prototype_Registry/Prototype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Prototype_Registry/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Prototype_Registry/StudentRegistry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Prototype_Registry/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Prototype_Registry/note.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/UI_Platform/Platform.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Prototype_Registry/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Prototype_Registry/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Prototype_Registry/IntelligentStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Prototype_Registry/IntelligentStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Prototype_Registry/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Prototype_Registry/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Prototype_Registry/StudentRegistry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Prototype_Registry/StudentRegistry.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,16 +31,35 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feat-sorting-bs" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hemantshende&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hemantshende/Scaler_Code.git&quot;,
+    &quot;accountId&quot;: &quot;a04c25bd-d009-4e67-ac62-1a7b6e9dbee7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2uOP2dL2vedxwKM0t955k2hPxax" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -42,23 +68,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Kedanc_Algorithm.executor": "Run",
-    "Application.Pre_Sum_problem.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BS_findFirstOccuranceOfTarget.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckEveryNumber_oneToNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Check_PrimeOrNot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count_Dist_Element.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Design_patterns.Adapter.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindK_inSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNonRepeatingElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Freq_of_Element_in_Given_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Kedanc_Algorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Merge_Sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Merge_two_sorted_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pivot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Power_approach_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Power_approach_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Power_approach_3_FastPower.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pre_Sum_problem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Print_1ToN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Print_Nto1_desc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentComparable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubarrayWithSumZero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Valid_Parenthesis.executor&quot;: &quot;Run&quot;,
+    &quot;Application.count_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.count_sort_positiveNumbersOnly.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fibonnacii.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sortArray.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/OneDrive/Desktop/hemant/CODE PRACTICE/Scaler_Coding_1/src/Design_patterns/Factory/Database_v4&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Pre_Sum_problem">
-    <configuration name="Kedanc_Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_1.One_direction.Kedanc_Algorithm" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\OneDrive\Desktop\hemant\CODE PRACTICE\Scaler_Coding_1\src\Design_patterns\Factory\Database_v4" />
+      <recent name="C:\Users\admin\OneDrive\Desktop\hemant\CODE PRACTICE\Scaler_Coding_1\src\Design_patterns\Factory\Database_v3" />
+      <recent name="C:\Users\admin\OneDrive\Desktop\hemant\CODE PRACTICE\Scaler_Coding_1\src\Design_patterns\Factory\Database_v2" />
+      <recent name="C:\Users\admin\OneDrive\Desktop\hemant\CODE PRACTICE\Scaler_Coding_1\src\Design_patterns\Factory\Database_v1" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Design_patterns" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Design_patterns.Adapter.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_patterns.Prototype_Registry.Client" />
       <module name="Scaler_Coding_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvanceDSA_1.One_direction.*" />
+          <option name="PATTERN" value="Design_patterns.Prototype_Registry.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +132,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pre_Sum_problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_1.One_direction.Pre_Sum_problem" />
+    <configuration name="Design_patterns.Adapter.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_patterns.Adapter.Client" />
       <module name="Scaler_Coding_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvanceDSA_1.One_direction.*" />
+          <option name="PATTERN" value="Design_patterns.Adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Merge_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_2.Sorting_1.Merge_Sort" />
+      <module name="Scaler_Coding_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdvanceDSA_2.Sorting_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Merge_two_sorted_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_2.Sorting_1.Merge_two_sorted_array" />
+      <module name="Scaler_Coding_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdvanceDSA_2.Sorting_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="count_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_2.Sorting_1.count_sort" />
+      <module name="Scaler_Coding_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdvanceDSA_2.Sorting_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,8 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pre_Sum_problem" />
-        <item itemvalue="Application.Kedanc_Algorithm" />
+        <item itemvalue="Application.Design_patterns.Adapter.Client" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Merge_two_sorted_array" />
+        <item itemvalue="Application.Merge_Sort" />
+        <item itemvalue="Application.count_sort" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +211,87 @@
       <option name="project" value="LOCAL" />
       <updated>1742116567551</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="addeed">
+      <option name="closed" value="true" />
+      <created>1742157135435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742157135435</updated>
+    </task>
+    <task id="LOCAL-00003" summary="two recursive code updated&#10;1 to N asc and desc using recursion ..&#10;also added few changed files">
+      <option name="closed" value="true" />
+      <created>1742234500955</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742234500955</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added 3 approachs to calculate power of any number..eg..3^23, 2^5, 20^3...&#10;&#10;best version added...FastPower...to reduce time and space complexity">
+      <option name="closed" value="true" />
+      <created>1742235369046</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742235369046</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added backtracking folder...and added valid_parenthesis program to it...">
+      <option name="closed" value="true" />
+      <created>1742237779112</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742237779112</updated>
+    </task>
+    <task id="LOCAL-00006" summary="prime number codes added...check the number is prime or not">
+      <option name="closed" value="true" />
+      <created>1742653306543</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1742653306543</updated>
+    </task>
+    <task id="LOCAL-00007" summary="prime number codes added...find all the prime number from 1 to given number">
+      <option name="closed" value="true" />
+      <created>1742654886167</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1742654886167</updated>
+    </task>
+    <task id="LOCAL-00008" summary="hashing problem added 4 problems">
+      <option name="closed" value="true" />
+      <created>1742664671747</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1742664671747</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added sorting and binary search problem">
+      <option name="closed" value="true" />
+      <created>1742832348147</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1742832348147</updated>
+    </task>
+    <task id="LOCAL-00010" summary="adapter design pattern">
+      <option name="closed" value="true" />
+      <created>1744128766352</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1744128766352</updated>
+    </task>
+    <task id="LOCAL-00011" summary="some code//.">
+      <option name="closed" value="true" />
+      <created>1744278287752</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1744278287752</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,7 +299,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="feat-recurssion" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -119,6 +319,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dsa practice kadence algo added.." />
-    <option name="LAST_COMMIT_MESSAGE" value="dsa practice kadence algo added.." />
+    <MESSAGE value="addeed" />
+    <MESSAGE value="two recursive code updated&#10;1 to N asc and desc using recursion ..&#10;also added few changed files" />
+    <MESSAGE value="added 3 approachs to calculate power of any number..eg..3^23, 2^5, 20^3...&#10;&#10;best version added...FastPower...to reduce time and space complexity" />
+    <MESSAGE value="added backtracking folder...and added valid_parenthesis program to it..." />
+    <MESSAGE value="prime number codes added...check the number is prime or not" />
+    <MESSAGE value="prime number codes added...find all the prime number from 1 to given number" />
+    <MESSAGE value="hashing problem added 4 problems" />
+    <MESSAGE value="added sorting and binary search problem" />
+    <MESSAGE value="adapter design pattern" />
+    <MESSAGE value="some code//." />
+    <option name="LAST_COMMIT_MESSAGE" value="some code//." />
   </component>
 </project>

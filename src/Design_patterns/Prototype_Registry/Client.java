@@ -3,6 +3,7 @@ package Design_patterns.Prototype_Registry;
 public class Client {
     public static void main(String[] args) {
         Student st=new Student("hemant",29, "Apr23");
+        Student st2=st.copy();
 
 //        this is copying the ref
 //        Student st2=st1;

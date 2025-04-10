@@ -16,7 +16,7 @@ public class IntelligentStudent  extends  Student{
 
     public IntelligentStudent(IntelligentStudent intelligentStudent) {
         super(intelligentStudent);
-        this.iq=iq;
+        this.iq=intelligentStudent.iq;
     }
 
     @Override

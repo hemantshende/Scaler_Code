@@ -23,16 +23,14 @@ public class StudentRegistry {
        return students.get(key).copy();
     }
 
+    //to fill dummy objects
     public void fillRegistry(){
         Student apr23Student=new Student("new st", 23,"Apr23");
         Student Mar23Student=new Student("new st", 23,"Mar23");
         Student Feb23Student=new Student("new st", 23,"Feb23");
 
-
         students.put("Apr23", apr23Student);
         students.put("Mar23", Mar23Student);
         students.put("Feb23", Feb23Student);
-
-
     }
 }
