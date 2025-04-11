@@ -6,6 +6,13 @@ public class Cell {
     private Symbol symbol;
     private Cell_State cellState;
 
+    public Cell(int row, int col) {
+        this.row = row;
+        this.col = col;
+        this.cellState=Cell_State.EMPTY;
+        this.symbol=null;
+    }
+
     public Cell_State getCellState() {
         return cellState;
     }

@@ -6,25 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="52a97da0-1c8b-4da7-8890-f830f40a5163" name="Changes" comment="added attributes to the classes...as per the class diagram">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/ICICIBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/ICICIBank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/PhonePe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/PhonePe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/YesBankAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/YesBankAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/fastTag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/fastTag.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/phonePeloan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/phonePeloan.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdvanceDSA_1/Bit_manipulation_1/Count_SetBit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvanceDSA_1/Bit_manipulation_1/Count_SetBit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdvanceDSA_1/Bit_manipulation_1/Find_unique_element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvanceDSA_1/Bit_manipulation_1/Find_unique_element.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdvanceDSA_1/Recurssion/Power_approach_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvanceDSA_1/Recurssion/Power_approach_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdvanceDSA_2/Hashing_1/SubarrayWithSumZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvanceDSA_2/Hashing_1/SubarrayWithSumZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdvanceDSA_2/Searching_Binary_Search_OnArray/BS_findFirstOccuranceOfTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvanceDSA_2/Searching_Binary_Search_OnArray/BS_findFirstOccuranceOfTarget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdvanceDSA_2/Searching_Binary_Search_OnArray/Binary_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvanceDSA_2/Searching_Binary_Search_OnArray/Binary_Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Adapter/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/PhonePe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Adapter/PhonePe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/RBIBankAdapterFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Adapter/RBIBankAdapterFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/YesBankAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Adapter/YesBankAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/YesBankAPIAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Adapter/YesBankAPIAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/fastTag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Adapter/fastTag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/phonePeloan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Adapter/phonePeloan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Controller/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Controller/GameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/BotPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/BotPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Cell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/HumanPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/HumanPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Move.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -71,47 +61,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BS_findFirstOccuranceOfTarget.executor": "Run",
-    "Application.CheckEveryNumber_oneToNumber.executor": "Run",
-    "Application.Check_PrimeOrNot.executor": "Run",
-    "Application.Client.executor": "Run",
-    "Application.Count_Dist_Element.executor": "Run",
-    "Application.Count_SetBit.executor": "Run",
-    "Application.Design_patterns.Adapter.Client.executor": "Run",
-    "Application.FindK_inSortedArray.executor": "Run",
-    "Application.FirstNonRepeatingElement.executor": "Run",
-    "Application.Freq_of_Element_in_Given_Array.executor": "Run",
-    "Application.Kedanc_Algorithm.executor": "Run",
-    "Application.Merge_Sort.executor": "Run",
-    "Application.Merge_two_sorted_array.executor": "Run",
-    "Application.Pivot.executor": "Run",
-    "Application.Power_approach_1.executor": "Run",
-    "Application.Power_approach_2.executor": "Run",
-    "Application.Power_approach_3_FastPower.executor": "Run",
-    "Application.Pre_Sum_problem.executor": "Run",
-    "Application.Print_1ToN.executor": "Run",
-    "Application.Print_Nto1_desc.executor": "Run",
-    "Application.Rain_water_trapped.executor": "Run",
-    "Application.StudentComparable.executor": "Run",
-    "Application.SubarrayWithSumZero.executor": "Run",
-    "Application.Valid_Parenthesis.executor": "Run",
-    "Application.count_sort.executor": "Run",
-    "Application.count_sort_positiveNumbersOnly.executor": "Run",
-    "Application.factorial.executor": "Run",
-    "Application.fibonnacii.executor": "Run",
-    "Application.sortArray.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "tictactoe",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/admin/OneDrive/Desktop/hemant/CODE PRACTICE/Scaler_Coding_1/src/Design_patterns/Factory/Database_v4",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BS_findFirstOccuranceOfTarget.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckEveryNumber_oneToNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Check_PrimeOrNot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count_Dist_Element.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count_SetBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Design_patterns.Adapter.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindK_inSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNonRepeatingElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Freq_of_Element_in_Given_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Kedanc_Algorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Merge_Sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Merge_two_sorted_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pivot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Power_approach_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Power_approach_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Power_approach_3_FastPower.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pre_Sum_problem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Print_1ToN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Print_Nto1_desc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rain_water_trapped.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentComparable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubarrayWithSumZero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Valid_Parenthesis.executor&quot;: &quot;Run&quot;,
+    &quot;Application.count_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.count_sort_positiveNumbersOnly.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fibonnacii.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sortArray.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;tictactoe&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/OneDrive/Desktop/hemant/CODE PRACTICE/Scaler_Coding_1/src/Design_patterns/Factory/Database_v4&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\OneDrive\Desktop\hemant\CODE PRACTICE\Scaler_Coding_1\src\Design_patterns\Factory\Database_v4" />
@@ -192,9 +182,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.SubarrayWithSumZero" />
+        <item itemvalue="Application.Rain_water_trapped" />
         <item itemvalue="Application.Freq_of_Element_in_Given_Array" />
         <item itemvalue="Application.Count_SetBit" />
-        <item itemvalue="Application.Rain_water_trapped" />
         <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
@@ -304,7 +294,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744280483868</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="some dsa code changes">
+      <option name="closed" value="true" />
+      <created>1744354563198</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1744354563198</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added gamecontroller with some methods..not implimented yet..">
+      <option name="closed" value="true" />
+      <created>1744354613240</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1744354613240</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -343,6 +349,8 @@
     <MESSAGE value="adapter design pattern" />
     <MESSAGE value="some code//." />
     <MESSAGE value="Strated tictactoe..created models..as per the class diagram" />
-    <option name="LAST_COMMIT_MESSAGE" value="Strated tictactoe..created models..as per the class diagram" />
+    <MESSAGE value="some dsa code changes" />
+    <MESSAGE value="added gamecontroller with some methods..not implimented yet.." />
+    <option name="LAST_COMMIT_MESSAGE" value="added gamecontroller with some methods..not implimented yet.." />
   </component>
 </project>
