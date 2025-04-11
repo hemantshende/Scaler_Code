@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52a97da0-1c8b-4da7-8890-f830f40a5163" name="Changes" comment="added attributes to the classes...as per the class diagram">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Controller/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Controller/GameController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/BotPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/BotPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Cell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/HumanPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/HumanPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Move.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Player.java" afterDir="false" />
-    </list>
+    <list default="true" id="52a97da0-1c8b-4da7-8890-f830f40a5163" name="Changes" comment="adding strategies to bot playing difficulty" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -310,7 +299,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744354613240</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="added constructor to all models">
+      <option name="closed" value="true" />
+      <created>1744360164260</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1744360164260</updated>
+    </task>
+    <task id="LOCAL-00016" summary="adding strategies to bot playing difficulty">
+      <option name="closed" value="true" />
+      <created>1744360208716</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1744360208716</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -351,6 +356,8 @@
     <MESSAGE value="Strated tictactoe..created models..as per the class diagram" />
     <MESSAGE value="some dsa code changes" />
     <MESSAGE value="added gamecontroller with some methods..not implimented yet.." />
-    <option name="LAST_COMMIT_MESSAGE" value="added gamecontroller with some methods..not implimented yet.." />
+    <MESSAGE value="added constructor to all models" />
+    <MESSAGE value="adding strategies to bot playing difficulty" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding strategies to bot playing difficulty" />
   </component>
 </project>
