@@ -17,7 +17,7 @@ public class SubarrayWithSumZero {
 
         Map<Integer,Integer> map=new HashMap<>();
         for(int i:psum){
-            if(i==0){
+            if(i==0){  //single element is also a subaaray [0]
                 return true;
             }
             if(map.containsKey(i)){

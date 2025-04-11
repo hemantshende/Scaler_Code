@@ -4,14 +4,14 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Find_unique_element {
-    public static int uniqueElement(int[] arr){
+    public static int uniqueElement(int[] arr){    //method 1 using bit-manipulation
         int ans=0;
         for(int i=0;i<arr.length;i++){
             ans=ans^arr[i];
         }
         return ans;
     }
-    public static int unique(int[]arr){
+    public static int unique(int[]arr){     //method2-using hashmap
         int ans=0;
         Map<Integer,Integer> hm=new HashMap<>();
         for(int num: arr){

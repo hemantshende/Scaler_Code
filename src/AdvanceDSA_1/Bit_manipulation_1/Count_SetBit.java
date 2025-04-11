@@ -13,7 +13,7 @@ public class Count_SetBit {
 
     //check ith bit is set or not
     public static boolean check_bit(int num, int ith_bit){
-        if(((num >> ith_bit) & 1) ==0){    //we use & operator to check .. | to set.. ^ to change
+        if((num & (1<<ith_bit)) ==0){    //we use & operator to check .. | to set.. ^ to change
             return false;
         }else{
             return true;

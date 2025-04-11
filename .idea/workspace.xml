@@ -4,24 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52a97da0-1c8b-4da7-8890-f830f40a5163" name="Changes" comment="Strated tictactoe..created models..as per the class diagram">
-      <change afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/Client.class" afterDir="false" />
+    <list default="true" id="52a97da0-1c8b-4da7-8890-f830f40a5163" name="Changes" comment="added attributes to the classes...as per the class diagram">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/BotPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/BotPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Bot_Diff_Level.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Bot_Diff_Level.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Cell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Cell_State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Cell_State.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Game_State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Game_State.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/HumanPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/HumanPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Move.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Player_Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Player_Type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Symbol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Symbol.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/Col_WinningStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/Col_WinningStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/Row_WinningStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/Row_WinningStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/WinningStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/WinningStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/ICICIBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/ICICIBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/PhonePe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/PhonePe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/YesBankAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/YesBankAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/fastTag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/fastTag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/phonePeloan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Design_patterns/Adapter/phonePeloan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvanceDSA_1/Bit_manipulation_1/Count_SetBit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvanceDSA_1/Bit_manipulation_1/Count_SetBit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvanceDSA_1/Bit_manipulation_1/Find_unique_element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvanceDSA_1/Bit_manipulation_1/Find_unique_element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvanceDSA_1/Recurssion/Power_approach_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvanceDSA_1/Recurssion/Power_approach_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvanceDSA_2/Hashing_1/SubarrayWithSumZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvanceDSA_2/Hashing_1/SubarrayWithSumZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvanceDSA_2/Searching_Binary_Search_OnArray/BS_findFirstOccuranceOfTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvanceDSA_2/Searching_Binary_Search_OnArray/BS_findFirstOccuranceOfTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvanceDSA_2/Searching_Binary_Search_OnArray/Binary_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvanceDSA_2/Searching_Binary_Search_OnArray/Binary_Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Adapter/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/PhonePe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Adapter/PhonePe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/RBIBankAdapterFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Adapter/RBIBankAdapterFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/YesBankAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Adapter/YesBankAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/YesBankAPIAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Adapter/YesBankAPIAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/fastTag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Adapter/fastTag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/phonePeloan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Adapter/phonePeloan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +43,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="tictactoe" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -75,6 +78,7 @@
     "Application.Check_PrimeOrNot.executor": "Run",
     "Application.Client.executor": "Run",
     "Application.Count_Dist_Element.executor": "Run",
+    "Application.Count_SetBit.executor": "Run",
     "Application.Design_patterns.Adapter.Client.executor": "Run",
     "Application.FindK_inSortedArray.executor": "Run",
     "Application.FirstNonRepeatingElement.executor": "Run",
@@ -89,6 +93,7 @@
     "Application.Pre_Sum_problem.executor": "Run",
     "Application.Print_1ToN.executor": "Run",
     "Application.Print_Nto1_desc.executor": "Run",
+    "Application.Rain_water_trapped.executor": "Run",
     "Application.StudentComparable.executor": "Run",
     "Application.SubarrayWithSumZero.executor": "Run",
     "Application.Valid_Parenthesis.executor": "Run",
@@ -99,7 +104,7 @@
     "Application.sortArray.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "tictactoe",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/admin/OneDrive/Desktop/hemant/CODE PRACTICE/Scaler_Coding_1/src/Design_patterns/Factory/Database_v4",
     "project.structure.last.edited": "Modules",
@@ -118,13 +123,13 @@
       <recent name="Design_patterns" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BS_findFirstOccuranceOfTarget">
-    <configuration name="BS_findFirstOccuranceOfTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_2.Searching_Binary_Search_OnArray.BS_findFirstOccuranceOfTarget" />
+  <component name="RunManager" selected="Application.SubarrayWithSumZero">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_patterns.Adapter.Client" />
       <module name="Scaler_Coding_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvanceDSA_2.Searching_Binary_Search_OnArray.*" />
+          <option name="PATTERN" value="Design_patterns.Adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Binary_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_2.Searching_Binary_Search_OnArray.Binary_Search" />
+    <configuration name="Count_SetBit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_1.Bit_manipulation_1.Count_SetBit" />
       <module name="Scaler_Coding_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvanceDSA_2.Searching_Binary_Search_OnArray.*" />
+          <option name="PATTERN" value="AdvanceDSA_1.Bit_manipulation_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Merge_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_2.Sorting_1.Merge_Sort" />
+    <configuration name="Freq_of_Element_in_Given_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_2.Hashing_1.Freq_of_Element_in_Given_Array" />
       <module name="Scaler_Coding_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvanceDSA_2.Sorting_1.*" />
+          <option name="PATTERN" value="AdvanceDSA_2.Hashing_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Merge_two_sorted_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_2.Sorting_1.Merge_two_sorted_array" />
+    <configuration name="Rain_water_trapped" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_1.Rain_water_trapped" />
       <module name="Scaler_Coding_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvanceDSA_2.Sorting_1.*" />
+          <option name="PATTERN" value="AdvanceDSA_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="count_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_2.Sorting_1.count_sort" />
+    <configuration name="SubarrayWithSumZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_2.Hashing_1.SubarrayWithSumZero" />
       <module name="Scaler_Coding_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvanceDSA_2.Sorting_1.*" />
+          <option name="PATTERN" value="AdvanceDSA_2.Hashing_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Merge_two_sorted_array" />
-        <item itemvalue="Application.Merge_Sort" />
-        <item itemvalue="Application.count_sort" />
-        <item itemvalue="Application.BS_findFirstOccuranceOfTarget" />
-        <item itemvalue="Application.Binary_Search" />
+        <item itemvalue="Application.SubarrayWithSumZero" />
+        <item itemvalue="Application.Freq_of_Element_in_Given_Array" />
+        <item itemvalue="Application.Count_SetBit" />
+        <item itemvalue="Application.Rain_water_trapped" />
+        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>

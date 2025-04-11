@@ -16,7 +16,7 @@ public class BS_findFirstOccuranceOfTarget {
                 left=mid+1;
             }
         }
-        return ans; //if not found
+        return ans; //if not found -1...
     }
     public static void main(String[] args) {
         int[] arr={1,2,3,4,5,6,6,6,6,7,8,12,23,45,67,89,90};

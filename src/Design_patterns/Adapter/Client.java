@@ -9,5 +9,7 @@ public class Client {
         RBIBankAPI bankAPI=RBIBankAdapterFactory.getbankApiAdapter(bankName);
         PhonePe phonePe = new PhonePe(bankAPI);
         phonePe.reachargeFastag(120);
+        int balance=phonePe.getBalance();
+        System.out.println(balance);
     }
 }

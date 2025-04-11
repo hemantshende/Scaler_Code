@@ -5,9 +5,9 @@ public class Power_approach_2 {
         if(pow==0){
             return 1;
         }
-        if(pow%2==0){
+        if(pow%2==0){ //if pow is even
             return power(num,pow/2)*power(num,pow/2); //2^4==2^2*2^2....4/2
-        }else{
+        }else{//if pow is odd
             return power(num,pow/2)*power(num,pow/2)*num;//2^5==(2^2 * 2^2)*2....5/2=2..
         }
     }

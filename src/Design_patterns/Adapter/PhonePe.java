@@ -11,6 +11,10 @@ public class PhonePe {
         fastTag=new fastTag();
     }
 
+    public int getBalance(){
+        return bankAPI.balance("");
+    }
+
     public boolean reachargeFastag(int amount){
         return fastTag.recharge(bankAPI,amount);
     }

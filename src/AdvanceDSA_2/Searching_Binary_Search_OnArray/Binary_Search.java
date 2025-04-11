@@ -5,7 +5,7 @@ public class Binary_Search {
         int left=0;
         int right=arr.length-1;
 //
-        while(left<=right){
+        while(left<=right){                       //it works on sorted array only
             int mid=(left+right)/2;
 
             if(target==arr[mid]){
