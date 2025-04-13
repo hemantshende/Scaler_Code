@@ -14,7 +14,7 @@ public class Game {
     private List<WinningStrategy> winningStrategies;
     private Player winner;
 
-    public Game(Integer size, List<Player> players, List<WinningStrategy> winningStrategies) {
+    private Game(Integer size, List<Player> players, List<WinningStrategy> winningStrategies) {
         this.board = new Board(size);
         this.players = players;
         this.nextPlayerIndex = 0;
@@ -27,56 +27,80 @@ public class Game {
     public Board getBoard() {
         return board;
     }
-
     public void setBoard(Board board) {
         this.board = board;
     }
-
     public List<Player> getPlayers() {
         return players;
     }
-
     public void setPlayers(List<Player> players) {
         this.players = players;
     }
-
     public Integer getNextPlayerIndex() {
         return nextPlayerIndex;
     }
-
     public void setNextPlayerIndex(Integer nextPlayerIndex) {
         this.nextPlayerIndex = nextPlayerIndex;
     }
-
     public Game_State getGameState() {
         return gameState;
     }
-
     public void setGameState(Game_State gameState) {
         this.gameState = gameState;
     }
-
     public List<Move> getMoves() {
         return moves;
     }
-
     public void setMoves(List<Move> moves) {
         this.moves = moves;
     }
-
     public List<WinningStrategy> getWinningStrategies() {
         return winningStrategies;
     }
-
     public void setWinningStrategies(List<WinningStrategy> winningStrategies) {
         this.winningStrategies = winningStrategies;
     }
-
     public Player getWinner() {
         return winner;
     }
-
     public void setWinner(Player winner) {
         this.winner = winner;
+    }
+    //methods
+    public void displayBoard(){
+        board.displayBoard();
+    }
+
+    public static Builder getBuilder(){
+        return new Builder();
+    }
+
+    public static class Builder{
+        private Integer size;
+        private List<Player> players;
+        private List<WinningStrategy> winningStrategies;
+
+        public Builder setSize(Integer size) {
+            this.size = size;
+            return this;
+        }
+
+        public Builder setPlayers(List<Player> players) {
+            this.players = players;
+            return this;
+        }
+
+        public Builder setWinningStrategies(List<WinningStrategy> winningStrategies) {
+            this.winningStrategies = winningStrategies;
+            return this;
+        }
+        public void validate(){
+            //validations and exceptions
+        }
+
+        public Game build(){
+            validate();
+            return new Game(size,players,winningStrategies);
+        }
     }
 }

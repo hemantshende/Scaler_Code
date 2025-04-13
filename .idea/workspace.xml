@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52a97da0-1c8b-4da7-8890-f830f40a5163" name="Changes" comment="adding strategies to bot playing difficulty" />
+    <list default="true" id="52a97da0-1c8b-4da7-8890-f830f40a5163" name="Changes" comment="adding strategies to bot playing difficulty v1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/AdvanceDSA_2/Sorting_1/Merge_Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/AdvanceDSA_2/Sorting_1/Merge_Sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Controller/GameController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Controller/GameController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Board.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/BotPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/BotPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Cell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Cell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/HumanPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/HumanPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Move.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Move.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvanceDSA_2/Sorting_1/Merge_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvanceDSA_2/Sorting_1/Merge_Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Controller/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Controller/GameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Cell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Game.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +81,7 @@
     &quot;Application.FirstNonRepeatingElement.executor&quot;: &quot;Run&quot;,
     &quot;Application.Freq_of_Element_in_Given_Array.executor&quot;: &quot;Run&quot;,
     &quot;Application.Kedanc_Algorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Machine_Coding.TicTacToe.Client.executor&quot;: &quot;Run&quot;,
     &quot;Application.Merge_Sort.executor&quot;: &quot;Run&quot;,
     &quot;Application.Merge_two_sorted_array.executor&quot;: &quot;Run&quot;,
     &quot;Application.Pivot.executor&quot;: &quot;Run&quot;,
@@ -102,20 +121,7 @@
       <recent name="Design_patterns" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SubarrayWithSumZero">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_patterns.Adapter.Client" />
-      <module name="Scaler_Coding_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Design_patterns.Adapter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Machine_Coding.TicTacToe.Client">
     <configuration name="Count_SetBit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdvanceDSA_1.Bit_manipulation_1.Count_SetBit" />
       <module name="Scaler_Coding_1" />
@@ -135,6 +141,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="AdvanceDSA_2.Hashing_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Machine_Coding.TicTacToe.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Machine_Coding.TicTacToe.Client" />
+      <module name="Scaler_Coding_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Machine_Coding.TicTacToe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Machine_Coding.TicTacToe.Client" />
         <item itemvalue="Application.SubarrayWithSumZero" />
         <item itemvalue="Application.Rain_water_trapped" />
         <item itemvalue="Application.Freq_of_Element_in_Given_Array" />
         <item itemvalue="Application.Count_SetBit" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>

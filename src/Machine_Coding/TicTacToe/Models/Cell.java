@@ -44,4 +44,12 @@ public class Cell {
     public void setSymbol(Symbol symbol) {
         this.symbol = symbol;
     }
+
+    public void displayCell(){
+        if(cellState==Cell_State.EMPTY){
+            System.out.print("|-|");
+        }else {
+            System.out.print("|"+symbol.getSymChar()+"|");
+        }
+    }
 }

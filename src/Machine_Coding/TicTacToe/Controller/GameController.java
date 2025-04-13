@@ -9,10 +9,15 @@ import java.util.List;
 
 public class GameController {
     public Game startGame(int size, List<Player> players, List<WinningStrategy> winningStrategies){
-        return new Game(size,players,winningStrategies);
+        return Game
+                .getBuilder()
+                .setSize(size)
+                .setPlayers(players)
+                .setWinningStrategies(winningStrategies)
+                .build();
     }
     public void display(Game game){
-
+        game.displayBoard();
     }
     public void makeMove(Game game){
 
@@ -21,7 +26,7 @@ public class GameController {
 
     }
     public Game_State gameState(Game game){
-        return null;
+        return Game_State.IN_PROGRESS;
     }
 
     public Player winner(Game game){

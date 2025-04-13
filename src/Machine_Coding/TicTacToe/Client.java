@@ -23,11 +23,11 @@ public class Client {
         List<WinningStrategy> winningStrategies=new ArrayList<>();
 
         Game game=gameController.startGame(size,players,winningStrategies);
-
-        while(gameController.gameState(game).equals(Game_State.IN_PROGRESS)){
-            gameController.display(game);
-            gameController.makeMove(game);
-        }
+        gameController.display(game);
+//        while(gameController.gameState(game).equals(Game_State.IN_PROGRESS)){
+//            gameController.display(game);
+////            gameController.makeMove(game);
+//        }
         if(gameController.gameState(game).equals(Game_State.SUCCESS)){
             System.out.println("Winner: "+gameController.winner(game).getName());
         }
