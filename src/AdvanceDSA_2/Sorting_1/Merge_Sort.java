@@ -8,7 +8,6 @@ public class Merge_Sort {
             return;
         }
         int mid=(low+high)/2;
-
         mergeSort(arr,low,mid);
         mergeSort(arr,mid+1,high);
         merge_two_sorted_array(arr,low,mid,high);

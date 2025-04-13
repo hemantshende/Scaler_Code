@@ -20,15 +20,15 @@ public class GameController {
         game.displayBoard();
     }
     public void makeMove(Game game){
-
+        game.makeMove();
     }
+
     public void undo(Game game){
 
     }
     public Game_State gameState(Game game){
-        return Game_State.IN_PROGRESS;
+        return game.getGameState();
     }
-
     public Player winner(Game game){
         return null;
     }

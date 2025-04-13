@@ -1,6 +1,6 @@
 package Machine_Coding.TicTacToe.Models;
 
-public class Player {
+public abstract class Player {
     private Integer id;
     private String name;
     private Player_Type playerType;
@@ -44,4 +44,6 @@ public class Player {
     public void setSymbol(Symbol symbol) {
         this.symbol = symbol;
     }
+
+    public abstract Move makeMove(Board board);
 }

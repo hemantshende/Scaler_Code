@@ -7,21 +7,12 @@
     <list default="true" id="52a97da0-1c8b-4da7-8890-f830f40a5163" name="Changes" comment="adding strategies to bot playing difficulty v1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/AdvanceDSA_2/Sorting_1/Merge_Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/AdvanceDSA_2/Sorting_1/Merge_Sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Controller/GameController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Controller/GameController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Board.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/BotPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/BotPlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Cell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Cell.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/HumanPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/HumanPlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Move.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Move.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Player.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AdvanceDSA_2/Sorting_1/Merge_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvanceDSA_2/Sorting_1/Merge_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Controller/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Controller/GameController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Cell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/BotPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/BotPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/HumanPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/HumanPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,9 +180,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Machine_Coding.TicTacToe.Client" />
         <item itemvalue="Application.SubarrayWithSumZero" />
         <item itemvalue="Application.Rain_water_trapped" />
+        <item itemvalue="Application.Machine_Coding.TicTacToe.Client" />
         <item itemvalue="Application.Freq_of_Element_in_Given_Array" />
         <item itemvalue="Application.Count_SetBit" />
       </list>
@@ -334,7 +325,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744360208716</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="completed builder design pattern for game class">
+      <option name="closed" value="true" />
+      <created>1744546746508</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1744546746508</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -377,6 +376,7 @@
     <MESSAGE value="added gamecontroller with some methods..not implimented yet.." />
     <MESSAGE value="added constructor to all models" />
     <MESSAGE value="adding strategies to bot playing difficulty" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding strategies to bot playing difficulty" />
+    <MESSAGE value="completed builder design pattern for game class" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed builder design pattern for game class" />
   </component>
 </project>
