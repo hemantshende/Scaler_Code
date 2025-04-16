@@ -6,11 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="52a97da0-1c8b-4da7-8890-f830f40a5163" name="Changes" comment="make move completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Controller/GameController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Controller/GameController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/BotPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/BotPlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/HumanPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/HumanPlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/Col_WinningStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/Col_WinningStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/Row_WinningStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/Row_WinningStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/WinningStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/WinningStrategy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +92,7 @@
     "Application.sortArray.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "tictactoe",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/admin/OneDrive/Desktop/hemant/CODE PRACTICE/Scaler_Coding_1/src/Design_patterns/Factory/Database_v4",
     "project.structure.last.edited": "Modules",
@@ -179,10 +179,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.sortArray" />
         <item itemvalue="Application.SubarrayWithSumZero" />
+        <item itemvalue="Application.sortArray" />
         <item itemvalue="Application.Rain_water_trapped" />
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.Machine_Coding.TicTacToe.Client" />
       </list>
     </recent_temporary>

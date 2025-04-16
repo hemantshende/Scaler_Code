@@ -86,20 +86,7 @@ public class Game {
         }
     }
 
-    public void makeMove() {
-
-        //step 1==get current player and ask him to make move
-        Player currentPlayer=players.get(nextPlayerIndex);
-        System.out.println("its "+ currentPlayer.getName()+"'s move plz make move");
-        Move move=currentPlayer.makeMove(board);
-
-        //step 2== validate the move..we have validMove()..
-        if(validateMove(move)==false){
-            System.out.println("plz make valid move");
-            return;
-        }
-
-        //step3==
+    public void updateGameState(Move move,Player currentPlayer){
         // Get the cell from borad.
         // update cell state and put current player symbol in it..
         int row=move.getCell().getRow();
@@ -116,7 +103,39 @@ public class Game {
         nextPlayerIndex++;
         nextPlayerIndex %= players.size();
 
+    }
 
+    public boolean checkWinner(Board board, Move move){
+        for(WinningStrategy winningStrategies: winningStrategies){
+           if( winningStrategies.checkWinner(this.board,move)){
+               return true;
+           }
+        }
+        return false;
+    }
+
+    public void makeMove() {
+
+        //step 1==get current player and ask him to make move
+        Player currentPlayer=players.get(nextPlayerIndex);
+        System.out.println("its "+ currentPlayer.getName()+"'s move plz make move");
+        Move move=currentPlayer.makeMove(board);
+
+        //step 2== validate the move..we have validMove()..
+        if(validateMove(move)==false){
+            System.out.println("plz make valid move");
+            return;
+        }
+        //step3==
+        updateGameState(move,currentPlayer);
+        if(checkWinner(board,move)==true){
+            winner=currentPlayer;
+            gameState=Game_State.SUCCESS;
+        } else if (moves.size()>= board.getSize()* board.getSize()) {
+            gameState=Game_State.DRAW;
+        } else {
+            gameState=Game_State.IN_PROGRESS;
+        }
     }
 
     public static class Builder{

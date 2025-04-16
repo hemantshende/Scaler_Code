@@ -22,12 +22,17 @@ public class Client {
         players.add(new BotPlayer(2,"bot",new Symbol('o'),Bot_Diff_Level.EASY));
         List<WinningStrategy> winningStrategies=new ArrayList<>();
 
+        //flow of the game
+        //1-start game
         Game game=gameController.startGame(size,players,winningStrategies);
+        //2-display board
         gameController.display(game);
 //        while(gameController.gameState(game).equals(Game_State.IN_PROGRESS)){
 //            gameController.display(game);
 ////            gameController.makeMove(game);
 //        }
+
+        //3-check game state
         if(gameController.gameState(game).equals(Game_State.SUCCESS)){
             System.out.println("Winner: "+gameController.winner(game).getName());
         }
