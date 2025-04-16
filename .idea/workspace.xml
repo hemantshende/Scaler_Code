@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="52a97da0-1c8b-4da7-8890-f830f40a5163" name="Changes" comment="make move completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/Col_WinningStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/Col_WinningStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/Row_WinningStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/Row_WinningStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/WinningStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/WinningStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/BotPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/BotPlayer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,49 +53,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BS_findFirstOccuranceOfTarget.executor": "Run",
-    "Application.CheckEveryNumber_oneToNumber.executor": "Run",
-    "Application.Check_PrimeOrNot.executor": "Run",
-    "Application.Client.executor": "Run",
-    "Application.Count_Dist_Element.executor": "Run",
-    "Application.Count_SetBit.executor": "Run",
-    "Application.Design_patterns.Adapter.Client.executor": "Run",
-    "Application.FindK_inSortedArray.executor": "Run",
-    "Application.FirstNonRepeatingElement.executor": "Run",
-    "Application.Freq_of_Element_in_Given_Array.executor": "Run",
-    "Application.Kedanc_Algorithm.executor": "Run",
-    "Application.Machine_Coding.TicTacToe.Client.executor": "Run",
-    "Application.Merge_Sort.executor": "Run",
-    "Application.Merge_two_sorted_array.executor": "Run",
-    "Application.Pivot.executor": "Run",
-    "Application.Power_approach_1.executor": "Run",
-    "Application.Power_approach_2.executor": "Run",
-    "Application.Power_approach_3_FastPower.executor": "Run",
-    "Application.Pre_Sum_problem.executor": "Run",
-    "Application.Print_1ToN.executor": "Run",
-    "Application.Print_Nto1_desc.executor": "Run",
-    "Application.QuickSort.executor": "Run",
-    "Application.Rain_water_trapped.executor": "Run",
-    "Application.StudentComparable.executor": "Run",
-    "Application.SubarrayWithSumZero.executor": "Run",
-    "Application.Valid_Parenthesis.executor": "Run",
-    "Application.count_sort.executor": "Run",
-    "Application.count_sort_positiveNumbersOnly.executor": "Run",
-    "Application.factorial.executor": "Run",
-    "Application.fibonnacii.executor": "Run",
-    "Application.sortArray.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "tictactoe",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/admin/OneDrive/Desktop/hemant/CODE PRACTICE/Scaler_Coding_1/src/Design_patterns/Factory/Database_v4",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BS_findFirstOccuranceOfTarget.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckEveryNumber_oneToNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Check_PrimeOrNot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count_Dist_Element.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count_SetBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Design_patterns.Adapter.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindK_inSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNonRepeatingElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Freq_of_Element_in_Given_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Kedanc_Algorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Machine_Coding.TicTacToe.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Merge_Sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Merge_two_sorted_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pivot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Power_approach_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Power_approach_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Power_approach_3_FastPower.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pre_Sum_problem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Print_1ToN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Print_Nto1_desc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuickSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rain_water_trapped.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentComparable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubarrayWithSumZero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Valid_Parenthesis.executor&quot;: &quot;Run&quot;,
+    &quot;Application.count_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.count_sort_positiveNumbersOnly.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fibonnacii.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sortArray.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;tictactoe&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/OneDrive/Desktop/hemant/CODE PRACTICE/Scaler_Coding_1/src/Design_patterns/Factory/Database_v4&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\OneDrive\Desktop\hemant\CODE PRACTICE\Scaler_Coding_1\src\Design_patterns\Factory\Database_v4" />
@@ -332,7 +328,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744546746508</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="make move completed with some modification and modularity...with adding seperate method for seperate functions">
+      <option name="closed" value="true" />
+      <created>1744795359248</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1744795359248</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -376,6 +380,7 @@
     <MESSAGE value="added constructor to all models" />
     <MESSAGE value="adding strategies to bot playing difficulty" />
     <MESSAGE value="completed builder design pattern for game class" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed builder design pattern for game class" />
+    <MESSAGE value="make move completed with some modification and modularity...with adding seperate method for seperate functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="make move completed with some modification and modularity...with adding seperate method for seperate functions" />
   </component>
 </project>

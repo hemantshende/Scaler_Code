@@ -1,5 +1,7 @@
 package Machine_Coding.TicTacToe.Models;
 
+import Machine_Coding.TicTacToe.Strategies.BotPlayingStrategyFactory;
+
 public class BotPlayer extends Player{
     private Bot_Diff_Level botDifficultyLevel;
 
@@ -18,6 +20,10 @@ public class BotPlayer extends Player{
 
     @Override
     public Move makeMove(Board board) {
-        return null;
+        Move move=BotPlayingStrategyFactory
+                .getBotPlayongStrategy(botDifficultyLevel)
+                .makeMove(board);
+
+        return move;
     }
 }
