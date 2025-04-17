@@ -10,7 +10,6 @@ package AdvanceDSA_2.Searching_Binary_Search_OnArray;
 public class IncDecArray_FindMax {
     public static int findmax(int[] arr){
         int n= arr.length;
-
         //Edge cases-
         if(arr[0]>arr[1]){
             return arr[0];
@@ -21,10 +20,12 @@ public class IncDecArray_FindMax {
 
         int left=0;
         int right=n-1;
-
         while(left<=right){
             int mid=(left+right)/2;
-            if(arr[mid]> arr[mid+1] && arr[mid]> arr[mid-1]){
+            if(arr[mid] == arr[mid+1] || arr[mid] == arr[mid-1]){
+                return -1;
+            }
+            if(arr[mid] > arr[mid+1] && arr[mid] > arr[mid-1]){
                 return arr[mid];
             }
             if(arr[mid] < arr[mid+1]){
@@ -33,12 +34,10 @@ public class IncDecArray_FindMax {
                 right=mid-1;
             }
         }
-
         return -1;
     }
     public static void main(String[] args) {
-        int[] arr={1,3,5,10,15,16,19,13,12,6};
-
+        int[] arr={1,3,5,10,15,16,19,19,13,12,6};
         System.out.println(findmax(arr));
     }
 }
