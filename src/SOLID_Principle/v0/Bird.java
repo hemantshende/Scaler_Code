@@ -27,7 +27,7 @@ public class Bird {
 
     public void makeSound() {
         if(type.equals("sparrow")) {
-            System.out.println("gutu gutur");
+            System.out.println("gutur gutur");
         }
         else if(type.equals("peacock")) {
             System.out.println("meeooo");

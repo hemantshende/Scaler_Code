@@ -1,4 +1,4 @@
-package AdvanceDSA_1;
+package AdvanceDSA_1.Two_direction;
 
 //this is to get max subarray sum ...
 //[5 6 7 -3 2 -10 -12 8 12 -4 7 -2]...max sub sum is 23...index 7-10.

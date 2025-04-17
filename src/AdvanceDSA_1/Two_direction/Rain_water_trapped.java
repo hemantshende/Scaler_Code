@@ -1,4 +1,4 @@
-package AdvanceDSA_1;
+package AdvanceDSA_1.Two_direction;
 
 //for every element we need to calculate lmax and rmax
 //then take min{lmax,rmax) and sunstract the height of the biulding
@@ -7,7 +7,6 @@ package AdvanceDSA_1;
 //for this we need to use pre-sum tech to create lmax[] and rmax[]
 //then we will get lmax and rmax for every ele of array
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class Rain_water_trapped {

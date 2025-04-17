@@ -20,7 +20,7 @@ public class Binary_Search {
     }
     public static void main(String[] args) {
         int[] arr={1,2,3,4,5,6,7,8,12,23,45,67,89,90};
-        int target=1;
+        int target=12;
         int ans=find_target(arr,target);
         System.out.println(ans);
     }
