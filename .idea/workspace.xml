@@ -4,25 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52a97da0-1c8b-4da7-8890-f830f40a5163" name="Changes" comment="commited all cahnges and unversoned files">
+    <list default="true" id="52a97da0-1c8b-4da7-8890-f830f40a5163" name="Changes" comment="completed undo...and reduced tc for winning Strtegy..from log(n) to log(1)....">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Controller/GameController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Controller/GameController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/BotPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/BotPlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Game$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Game$Builder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Models/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Strategies/Col_WinningStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Strategies/Col_WinningStrategy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Strategies/Row_WinningStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Strategies/Row_WinningStrategy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Strategies/WinningStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Strategies/WinningStrategy.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Controller/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Controller/GameController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/BotPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/BotPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Models/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/BotPlayingStrategyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/BotPlayingStrategyFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/Col_WinningStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/Col_WinningStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/Row_WinningStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/Row_WinningStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/WinningStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/TicTacToe/Strategies/WinningStrategy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -365,7 +350,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744880280102</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="completed undo...and reduced tc for winning Strtegy..from log(n) to log(1)....">
+      <option name="closed" value="true" />
+      <created>1745136519396</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1745136519396</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -421,6 +414,7 @@
     <MESSAGE value="completed builder design pattern for game class" />
     <MESSAGE value="make move completed with some modification and modularity...with adding seperate method for seperate functions" />
     <MESSAGE value="commited all cahnges and unversoned files" />
-    <option name="LAST_COMMIT_MESSAGE" value="commited all cahnges and unversoned files" />
+    <MESSAGE value="completed undo...and reduced tc for winning Strtegy..from log(n) to log(1)...." />
+    <option name="LAST_COMMIT_MESSAGE" value="completed undo...and reduced tc for winning Strtegy..from log(n) to log(1)...." />
   </component>
 </project>

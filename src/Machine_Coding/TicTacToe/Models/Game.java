@@ -81,9 +81,10 @@ public class Game {
         int col=move.getCell().getCol();
         if(row<0 || row>=board.getSize() || col<0||col>= board.getSize()){
             return false;
-        }else {
-            return board.getGrid().get(row).get(col).getCellState().equals(Cell_State.EMPTY);
         }
+
+        return board.getGrid().get(row).get(col).getCellState().equals(Cell_State.EMPTY);
+
     }
 
     public void updateGameState(Move move,Player currentPlayer){
@@ -126,7 +127,7 @@ public class Game {
             System.out.println("plz make valid move");
             return;
         }
-        //step3==
+        //step3==update game state
         updateGameState(move,currentPlayer);
         if(checkWinner(board,move)==true){
             winner=currentPlayer;
@@ -158,7 +159,7 @@ public class Game {
             winningStrategy.handleUndo(board, lastMove);
         }
 
-        setGameState(GameState.IN_PROGRESS);
+        setGameState(Game_State.IN_PROGRESS);
         setWinner(null);
     }
 
