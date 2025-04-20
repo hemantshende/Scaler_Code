@@ -24,12 +24,12 @@ public class GameController {
     }
 
     public void undo(Game game){
-
+        game.undo();
     }
     public Game_State gameState(Game game){
         return game.getGameState();
     }
     public Player winner(Game game){
-        return null;
+        return game.getWinner();
     }
 }

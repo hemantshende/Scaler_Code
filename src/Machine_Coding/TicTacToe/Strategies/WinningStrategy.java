@@ -5,4 +5,6 @@ import Machine_Coding.TicTacToe.Models.Move;
 
 public interface WinningStrategy {
     boolean checkWinner(Board board, Move move);
+
+    void handleUndo(Board board, Move lastMove);
 }

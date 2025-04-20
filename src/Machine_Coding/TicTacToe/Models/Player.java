@@ -45,5 +45,7 @@ public abstract class Player {
         this.symbol = symbol;
     }
 
+
+    //methods
     public abstract Move makeMove(Board board);
 }

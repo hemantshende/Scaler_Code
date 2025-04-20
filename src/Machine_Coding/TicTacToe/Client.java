@@ -2,6 +2,8 @@ package Machine_Coding.TicTacToe;
 
 import Machine_Coding.TicTacToe.Controller.GameController;
 import Machine_Coding.TicTacToe.Models.*;
+import Machine_Coding.TicTacToe.Strategies.Col_WinningStrategy;
+import Machine_Coding.TicTacToe.Strategies.Row_WinningStrategy;
 import Machine_Coding.TicTacToe.Strategies.WinningStrategy;
 
 import java.util.ArrayList;
@@ -19,18 +21,20 @@ public class Client {
         int size=3;
         List<Player> players=new ArrayList<>();
         players.add(new HumanPlayer(1,"Hemant",new Symbol('x')));
-        players.add(new BotPlayer(2,"bot",new Symbol('o'),Bot_Diff_Level.EASY));
+        players.add(new BotPlayer(2,"bot",new Symbol('o'),Bot_Diff_Level.MEDIUM));
         List<WinningStrategy> winningStrategies=new ArrayList<>();
+//        winningStrategies.add(new Row_WinningStrategy());
+        winningStrategies.add(new Col_WinningStrategy());
 
         //flow of the game
         //1-start game
         Game game=gameController.startGame(size,players,winningStrategies);
         //2-display board
         gameController.display(game);
-//        while(gameController.gameState(game).equals(Game_State.IN_PROGRESS)){
-//            gameController.display(game);
-////            gameController.makeMove(game);
-//        }
+        while(gameController.gameState(game).equals(Game_State.IN_PROGRESS)){
+            gameController.makeMove(game);
+            gameController.display(game);
+        }
 
         //3-check game state
         if(gameController.gameState(game).equals(Game_State.SUCCESS)){
