@@ -3,6 +3,7 @@ package Machine_Coding.TicTacToe;
 import Machine_Coding.TicTacToe.Controller.GameController;
 import Machine_Coding.TicTacToe.Models.*;
 import Machine_Coding.TicTacToe.Strategies.Col_WinningStrategy;
+import Machine_Coding.TicTacToe.Strategies.Diagonal_WinningStrategy;
 import Machine_Coding.TicTacToe.Strategies.Row_WinningStrategy;
 import Machine_Coding.TicTacToe.Strategies.WinningStrategy;
 
@@ -27,6 +28,7 @@ public class Client {
         List<WinningStrategy> winningStrategies=new ArrayList<>();
         winningStrategies.add(new Row_WinningStrategy());
         winningStrategies.add(new Col_WinningStrategy());
+        winningStrategies.add(new Diagonal_WinningStrategy());
 
         //flow of the game
         //1-start game
