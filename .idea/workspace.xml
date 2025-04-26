@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52a97da0-1c8b-4da7-8890-f830f40a5163" name="Changes" comment="commited all cahnges and unversoned files">
+    <list default="true" id="52a97da0-1c8b-4da7-8890-f830f40a5163" name="Changes" comment="two pointer code added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/AdvanceDSA_2/BinarySearch_On_Answer/Aggressive_cows_findMaxMinDistTomaintain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/AdvanceDSA_2/BinarySearch_On_Answer/Aggressive_cows_findMaxMinDistTomaintain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/Machine_Coding/TicTacToe/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvanceDSA_2/Two_Pointer/Container_With_Most_water.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvanceDSA_2/Two_Pointer/Container_With_Most_water.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +95,7 @@
     "Application.sortArray.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "dsa-2",
+    "git-widget-placeholder": "dsa-3",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/admin/OneDrive/Desktop/hemant/CODE PRACTICE/Scaler_Coding_1/src/Design_patterns/Factory/Database_v4",
     "project.structure.last.edited": "Modules",
@@ -115,13 +114,13 @@
       <recent name="Design_patterns" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Container_With_Most_water">
-    <configuration name="Container_With_Most_water" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_2.Two_Pointer.Container_With_Most_water" />
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_3.LinkedList_Introduction.Client" />
       <module name="Scaler_Coding_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvanceDSA_2.Two_Pointer.*" />
+          <option name="PATTERN" value="AdvanceDSA_3.LinkedList_Introduction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Container_With_Most_water" />
-        <item itemvalue="Application.find_pairSum_Target" />
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.SubarrayWithSumZero" />
         <item itemvalue="Application.Sorted_Rotated_array_findTarget" />
         <item itemvalue="Application.sortArray" />
+        <item itemvalue="Application.find_pairSum_Target" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +351,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744880280102</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="two pointer code added">
+      <option name="closed" value="true" />
+      <created>1745670771740</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1745670771740</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -398,6 +405,7 @@
     <MESSAGE value="completed builder design pattern for game class" />
     <MESSAGE value="make move completed with some modification and modularity...with adding seperate method for seperate functions" />
     <MESSAGE value="commited all cahnges and unversoned files" />
-    <option name="LAST_COMMIT_MESSAGE" value="commited all cahnges and unversoned files" />
+    <MESSAGE value="two pointer code added" />
+    <option name="LAST_COMMIT_MESSAGE" value="two pointer code added" />
   </component>
 </project>
