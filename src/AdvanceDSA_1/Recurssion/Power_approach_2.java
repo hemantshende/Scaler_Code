@@ -8,7 +8,7 @@ public class Power_approach_2 {
         if(pow%2==0){ //if pow is even
             return power(num,pow/2)*power(num,pow/2); //2^4==2^2*2^2....4/2
         }else{//if pow is odd
-            return power(num,pow/2)*power(num,pow/2)*num;//2^5==(2^2 * 2^2)*2....5/2=2..
+            return power(num,pow/2)*power(num,pow/2) * num;//2^5==(2^2 * 2^2)*2....5/2=2..
         }
     }
     public static void main(String[] args) {

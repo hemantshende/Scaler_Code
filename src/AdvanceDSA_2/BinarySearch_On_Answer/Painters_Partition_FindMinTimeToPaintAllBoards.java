@@ -29,6 +29,7 @@ public class Painters_Partition_FindMinTimeToPaintAllBoards {
         //search space
         //left=maxElement*timePerUnitLength
         //rigth=sumOfAllElemetnt * timePerUnitLength
+
         //so we need to find max element and sum of all element
         int max=arr[0];
         int sum=arr[0];
@@ -39,7 +40,7 @@ public class Painters_Partition_FindMinTimeToPaintAllBoards {
             sum=sum+arr[i];
         }
 
-        int left=max*timePerUnitLength;
+        int left=max*timePerUnitLength; //search space
         int right=sum*timePerUnitLength;
         int ans=-1;
 
