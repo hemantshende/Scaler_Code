@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52a97da0-1c8b-4da7-8890-f830f40a5163" name="Changes" comment="linek list introduction...addfirst..addlast..deletefirst..deletelast...print...reverse...addAtIndex...deleteAtIndex..">
+    <list default="true" id="52a97da0-1c8b-4da7-8890-f830f40a5163" name="Changes" comment="created dsa-4 branch and added connecting rope code of mih-heap data structure...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/AdvanceDSA_4/Heap_Introduction/Connect_Rope.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/AdvanceDSA_4/Heap_Introduction/Connect_Rope.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvanceDSA_1/Recurssion/Power_approach_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvanceDSA_1/Recurssion/Power_approach_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvanceDSA_2/BinarySearch_On_Answer/Painters_Partition_FindMinTimeToPaintAllBoards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvanceDSA_2/BinarySearch_On_Answer/Painters_Partition_FindMinTimeToPaintAllBoards.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -24,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dsa-3" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,60 +58,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AdvanceDSA_3.LL_Sorting_And_detecting_Loop.Client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AdvanceDSA_3.Tree_StructureAndTraversal.Client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BS_findFirstOccuranceOfTarget.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CheckEveryNumber_oneToNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Check_PrimeOrNot.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Container_With_Most_water.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Count_Dist_Element.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Count_SetBit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Design_patterns.Adapter.Client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindK_inSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Find_Element_in_BST.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstNonRepeatingElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Freq_of_Element_in_Given_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IncDecArray_FindMax.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Kedanc_Algorithm.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Left_view_tree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Level_order_traversal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Machine_Coding.TicTacToe.Client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Merge_Sort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Merge_two_sorted_array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pivot.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Power_approach_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Power_approach_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Power_approach_3_FastPower.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pre_Sum_problem.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Print_1ToN.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Print_Nto1_desc.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Que_Using_Stack.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QuickSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Rain_water_trapped.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Right_view_tree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sorted_Rotated_array_findTarget.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StudentComparable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubarrayWithSumZero.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Valid_Parenthesis.executor&quot;: &quot;Run&quot;,
-    &quot;Application.count_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.count_sort_positiveNumbersOnly.executor&quot;: &quot;Run&quot;,
-    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.fibonnacii.executor&quot;: &quot;Run&quot;,
-    &quot;Application.find_pairSum_Target.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sortArray.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/OneDrive/Desktop/hemant/CODE PRACTICE/Scaler_Coding_1/src/Design_patterns/Factory/Database_v4&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AdvanceDSA_3.LL_Sorting_And_detecting_Loop.Client.executor": "Run",
+    "Application.AdvanceDSA_3.Tree_StructureAndTraversal.Client.executor": "Run",
+    "Application.BS_findFirstOccuranceOfTarget.executor": "Run",
+    "Application.CheckEveryNumber_oneToNumber.executor": "Run",
+    "Application.Check_PrimeOrNot.executor": "Run",
+    "Application.Client.executor": "Run",
+    "Application.Climbing_Stairs.executor": "Run",
+    "Application.Connect_Rope.executor": "Run",
+    "Application.Container_With_Most_water.executor": "Run",
+    "Application.Count_Dist_Element.executor": "Run",
+    "Application.Count_SetBit.executor": "Run",
+    "Application.Design_patterns.Adapter.Client.executor": "Run",
+    "Application.Fibo_TopDown_Approach.executor": "Run",
+    "Application.Fibonacii.executor": "Run",
+    "Application.FindK_inSortedArray.executor": "Run",
+    "Application.Find_Element_in_BST.executor": "Run",
+    "Application.FirstNonRepeatingElement.executor": "Run",
+    "Application.Freq_of_Element_in_Given_Array.executor": "Run",
+    "Application.IncDecArray_FindMax.executor": "Run",
+    "Application.Kedanc_Algorithm.executor": "Run",
+    "Application.Left_view_tree.executor": "Run",
+    "Application.Level_order_traversal.executor": "Run",
+    "Application.Machine_Coding.TicTacToe.Client.executor": "Run",
+    "Application.Merge_Sort.executor": "Run",
+    "Application.Merge_two_sorted_array.executor": "Run",
+    "Application.Pivot.executor": "Run",
+    "Application.Power_approach_1.executor": "Run",
+    "Application.Power_approach_2.executor": "Run",
+    "Application.Power_approach_3_FastPower.executor": "Run",
+    "Application.Pre_Sum_problem.executor": "Run",
+    "Application.Print_1ToN.executor": "Run",
+    "Application.Print_Nto1_desc.executor": "Run",
+    "Application.Que_Using_Stack.executor": "Run",
+    "Application.QuickSort.executor": "Run",
+    "Application.Rain_water_trapped.executor": "Run",
+    "Application.Right_view_tree.executor": "Run",
+    "Application.Sorted_Rotated_array_findTarget.executor": "Run",
+    "Application.StudentComparable.executor": "Run",
+    "Application.SubarrayWithSumZero.executor": "Run",
+    "Application.Valid_Parenthesis.executor": "Run",
+    "Application.Winner_Stone.executor": "Run",
+    "Application.count_sort.executor": "Run",
+    "Application.count_sort_positiveNumbersOnly.executor": "Run",
+    "Application.factorial.executor": "Run",
+    "Application.fibonnacii.executor": "Run",
+    "Application.find_pairSum_Target.executor": "Run",
+    "Application.max_of_slidingWindow.executor": "Run",
+    "Application.sortArray.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "parking-lot",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/admin/OneDrive/Desktop/hemant/CODE PRACTICE/Scaler_Coding_1/src/Design_patterns/Factory/Database_v4",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\OneDrive\Desktop\hemant\CODE PRACTICE\Scaler_Coding_1\src\Design_patterns\Factory\Database_v4" />
@@ -120,13 +129,13 @@
       <recent name="Design_patterns" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Connect_Rope">
-    <configuration name="AdvanceDSA_3.Tree_StructureAndTraversal.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_3.Tree_StructureAndTraversal.Client" />
+  <component name="RunManager" selected="Application.Winner_Stone">
+    <configuration name="Climbing_Stairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_4.DP_1.Climbing_Stairs" />
       <module name="Scaler_Coding_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvanceDSA_3.Tree_StructureAndTraversal.*" />
+          <option name="PATTERN" value="AdvanceDSA_4.DP_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,8 +143,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Connect_Rope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_4.Heap_Introduction.Connect_Rope" />
+    <configuration name="Fibo_TopDown_Approach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_4.DP_1.Fibo_TopDown_Approach" />
+      <module name="Scaler_Coding_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdvanceDSA_4.DP_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_4.DP_1.Fibonacii" />
+      <module name="Scaler_Coding_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdvanceDSA_4.DP_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Winner_Stone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_4.Heap_Introduction.Winner_Stone" />
       <module name="Scaler_Coding_1" />
       <extension name="coverage">
         <pattern>
@@ -147,34 +182,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_Element_in_BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_3.BST.Find_Element_in_BST" />
-      <module name="Scaler_Coding_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AdvanceDSA_3.BST.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Left_view_tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_3.Trees_views.Left_view_tree" />
-      <module name="Scaler_Coding_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AdvanceDSA_3.Trees_views.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Que_Using_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_3.Queue.Que_Using_Stack" />
+    <configuration name="max_of_slidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_3.Queue.max_of_slidingWindow" />
       <module name="Scaler_Coding_1" />
       <extension name="coverage">
         <pattern>
@@ -188,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Connect_Rope" />
-        <item itemvalue="Application.Find_Element_in_BST" />
-        <item itemvalue="Application.Que_Using_Stack" />
-        <item itemvalue="Application.AdvanceDSA_3.Tree_StructureAndTraversal.Client" />
-        <item itemvalue="Application.Left_view_tree" />
+        <item itemvalue="Application.Winner_Stone" />
+        <item itemvalue="Application.Climbing_Stairs" />
+        <item itemvalue="Application.Fibo_TopDown_Approach" />
+        <item itemvalue="Application.Fibonacii" />
+        <item itemvalue="Application.max_of_slidingWindow" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +374,31 @@
       <option name="project" value="LOCAL" />
       <updated>1745670771740</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="dsa-3 some code added...">
+      <option name="closed" value="true" />
+      <created>1745831065533</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1745831065533</updated>
+    </task>
+    <task id="LOCAL-00022" summary="created dsa-4 branch and added connecting rope code of mih-heap data structure...">
+      <option name="closed" value="true" />
+      <created>1745831159670</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1745831159670</updated>
+    </task>
+    <task id="LOCAL-00023" summary="created dsa-4 branch and added connecting rope code of mih-heap data structure...">
+      <option name="closed" value="true" />
+      <created>1745831166427</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1745831166427</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -412,6 +445,23 @@
     <MESSAGE value="make move completed with some modification and modularity...with adding seperate method for seperate functions" />
     <MESSAGE value="commited all cahnges and unversoned files" />
     <MESSAGE value="two pointer code added" />
-    <option name="LAST_COMMIT_MESSAGE" value="two pointer code added" />
+    <MESSAGE value="dsa-3 some code added..." />
+    <MESSAGE value="created dsa-4 branch and added connecting rope code of mih-heap data structure..." />
+    <option name="LAST_COMMIT_MESSAGE" value="created dsa-4 branch and added connecting rope code of mih-heap data structure..." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/AdvanceDSA_4/Heap_Introduction/Winner_Stone.java</url>
+          <line>41</line>
+          <properties class="AdvanceDSA_4.Heap_Introduction.Winner_Stone" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
