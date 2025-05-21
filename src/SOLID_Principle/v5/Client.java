@@ -9,7 +9,8 @@ public class Client {
         Bird penguin= new Penguin();
         penguin.makeSound();
 
-        Bird pigeon =new Pigeon();
-        ((Pigeon) pigeon).fly();
+        Pigeon pigeon =new Pigeon();
+        pigeon.fly();
+
     }
 }

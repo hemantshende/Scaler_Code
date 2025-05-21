@@ -23,6 +23,6 @@ public abstract class Bird {
     public abstract void makeSound();
 }
 
-//createdd bird class as abstract class
+//created Bird Class as abstract class
 //created class for every bird and extends bird class...
-//they should impliment abstract method of bird class..
+//they should implement abstract method of bird class..

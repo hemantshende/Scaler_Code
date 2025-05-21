@@ -4,21 +4,122 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52a97da0-1c8b-4da7-8890-f830f40a5163" name="Changes" comment="created dsa-4 branch and added connecting rope code of mih-heap data structure...">
+    <list default="true" id="52a97da0-1c8b-4da7-8890-f830f40a5163" name="Changes" comment="Completed all models and required enums as per class diagram we designed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/Bill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/Gate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/Gate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/Gate_Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/Gate_Status.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/ParkingFloor_Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/ParkingFloor_Status.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/ParkingLot_Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/ParkingLot_Status.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/Parking_Slot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/Parking_Slot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/Parking_Slot_Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/Parking_Slot_Status.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/Payment_Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/Payment_Status.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/Ticket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/Vehicle_Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine_Coding/ParkingLot/model/Vehicle_Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/AdvanceDSA_2/BinarySearch_On_Answer/Painters_Partition_FindMinTimeToPaintAllBoards.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/AdvanceDSA_2/BinarySearch_On_Answer/Painters_Partition_FindMinTimeToPaintAllBoards.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scaler_Coding_1/SOLID_Principle/v5/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Scaler_Coding_1/SOLID_Principle/v5/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Structural_design_pattern/Adapter/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/ICICIBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Structural_design_pattern/Adapter/ICICIBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/ICICIBankAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Structural_design_pattern/Adapter/ICICIBankAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/PhonePe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Structural_design_pattern/Adapter/PhonePe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/RBIBankAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Structural_design_pattern/Adapter/RBIBankAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/RBIBankAdapterFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Structural_design_pattern/Adapter/RBIBankAdapterFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/YesBankAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Structural_design_pattern/Adapter/YesBankAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/YesBankAPIAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Structural_design_pattern/Adapter/YesBankAPIAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/fastTag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Structural_design_pattern/Adapter/fastTag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Adapter/phonePeloan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Structural_design_pattern/Adapter/phonePeloan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Builder/v0_basic/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Builder/v0_basic/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Builder/v0_basic/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Builder/v0_basic/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Builder/v0_basic/StudentBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Builder/v0_basic/StudentBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Builder/v1_getBuilerMethod/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Builder/v1_getBuilerMethod/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Builder/v1_getBuilerMethod/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Builder/v1_getBuilerMethod/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Builder/v1_getBuilerMethod/StudentBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Builder/v1_getBuilerMethod/StudentBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Builder/v3_chaining/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Builder/v3_chaining/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Builder/v3_chaining/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Builder/v3_chaining/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Builder/v3_chaining/StudentBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Builder/v3_chaining/StudentBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Builder/v4_build_method/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Builder/v4_build_method/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Builder/v4_build_method/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Builder/v4_build_method/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Builder/v4_build_method/StudentBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Builder/v4_build_method/StudentBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Builder/v5_Inner_Class/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Builder/v5_Inner_Class/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Builder/v5_Inner_Class/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Builder/v5_Inner_Class/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Builder/v5_Inner_Class/StudentBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Builder/v5_Inner_Class/StudentBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v0/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v0/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v0/MongoDb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v0/MongoDb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v0/MySql.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v0/MySql.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v0/PosgreS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v0/PosgreS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v0/Queries/NoSqlQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v0/Queries/NoSqlQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v0/Queries/Queries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v0/Queries/Queries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v0/Queries/SqlQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v0/Queries/SqlQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v0/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v0/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v1/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v1/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v1/Factories/QueryFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v1/Factories/QueryFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v1/MongoDb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v1/MongoDb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v1/MySql.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v1/MySql.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v1/PosgreS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v1/PosgreS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v1/Quries/NoSqlQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v1/Quries/NoSqlQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v1/Quries/Queries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v1/Quries/Queries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v1/Quries/SqlQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v1/Quries/SqlQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v1/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v1/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v2/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v2/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v2/Factories/QueryFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v2/Factories/QueryFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v2/MongoDb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v2/MongoDb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v2/MySql.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v2/MySql.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v2/PosgreS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v2/PosgreS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v2/Quries/NoSqlQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v2/Quries/NoSqlQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v2/Quries/Queries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v2/Quries/Queries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v2/Quries/SqlQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v2/Quries/SqlQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v2/Transaction/T_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v2/Transaction/T_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v2/Transaction/T_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v2/Transaction/T_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v2/Transaction/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v2/Transaction/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v2/Updators/Eager_Updators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v2/Updators/Eager_Updators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v2/Updators/LazyUpdators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v2/Updators/LazyUpdators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v2/Updators/Updators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v2/Updators/Updators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v2/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v2/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v3/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v3/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v3/DatabaseFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v3/DatabaseFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v3/Factories/QueryFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v3/Factories/QueryFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v3/MongoDb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v3/MongoDb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v3/MongoDbFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v3/MongoDbFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v3/MySql.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v3/MySql.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v3/MySqlFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v3/MySqlFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v3/PosgreS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v3/PosgreS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v3/PosgreSFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v3/PosgreSFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v3/Quries/NoSqlQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v3/Quries/NoSqlQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v3/Quries/Queries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v3/Quries/Queries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v3/Quries/SqlQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v3/Quries/SqlQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v3/Transaction/T_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v3/Transaction/T_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v3/Transaction/T_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v3/Transaction/T_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v3/Transaction/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v3/Transaction/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v3/Updators/Eager_Updators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v3/Updators/Eager_Updators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v3/Updators/LazyUpdators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v3/Updators/LazyUpdators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v3/Updators/Updators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v3/Updators/Updators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v3/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v3/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v4/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v4/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v4/DatabaseFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v4/DatabaseFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v4/Factories/QueryFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v4/Factories/QueryFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v4/MongoDb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v4/MongoDb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v4/MongoDbFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v4/MongoDbFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v4/MySql.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v4/MySql.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v4/MySqlFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v4/MySqlFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v4/PosgreS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v4/PosgreS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v4/PosgreSFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v4/PosgreSFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v4/Quries/NoSqlQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v4/Quries/NoSqlQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v4/Quries/Queries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v4/Quries/Queries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v4/Quries/SqlQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v4/Quries/SqlQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v4/Transaction/T_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v4/Transaction/T_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v4/Transaction/T_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v4/Transaction/T_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v4/Transaction/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v4/Transaction/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v4/Updators/Eager_Updators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v4/Updators/Eager_Updators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v4/Updators/LazyUpdators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v4/Updators/LazyUpdators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v4/Updators/Updators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v4/Updators/Updators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Factory/Database_v4/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Factory/Database_v4/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Prototype_Registry/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Prototype_Registry/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Prototype_Registry/IntelligentStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Prototype_Registry/IntelligentStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Prototype_Registry/Prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Prototype_Registry/Prototype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Prototype_Registry/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Prototype_Registry/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Prototype_Registry/StudentRegistry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Prototype_Registry/StudentRegistry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Prototype_Registry/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Prototype_Registry/note.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Singleton/Method1_Lazy_Intialization/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Singleton/Method1_Lazy_Intialization/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Singleton/Method1_Lazy_Intialization/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Singleton/Method1_Lazy_Intialization/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Singleton/Method2_Eager_Intialization/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Singleton/Method2_Eager_Intialization/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Singleton/Method2_Eager_Intialization/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Singleton/Method2_Eager_Intialization/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Singleton/Method3_Synchronized/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Singleton/Method3_Synchronized/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Singleton/Method3_Synchronized/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Singleton/Method3_Synchronized/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Singleton/Method4_nestedClass/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Singleton/Method4_nestedClass/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_patterns/Singleton/Method4_nestedClass/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_patterns/Creational_design_pattern/Singleton/Method4_nestedClass/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SOLID_Principle/v0/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SOLID_Principle/v0/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SOLID_Principle/v1/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SOLID_Principle/v1/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SOLID_Principle/v5/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SOLID_Principle/v5/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,66 +169,68 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AdvanceDSA_3.LL_Sorting_And_detecting_Loop.Client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AdvanceDSA_3.Tree_StructureAndTraversal.Client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BS_findFirstOccuranceOfTarget.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CheckEveryNumber_oneToNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Check_PrimeOrNot.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Climbing_Stairs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Connect_Rope.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Container_With_Most_water.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Count_Dist_Element.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Count_SetBit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Design_patterns.Adapter.Client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fibo_TopDown_Approach.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fibonacii.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindK_inSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Find_Element_in_BST.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstNonRepeatingElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Freq_of_Element_in_Given_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IncDecArray_FindMax.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Kedanc_Algorithm.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Left_view_tree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Level_order_traversal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Machine_Coding.TicTacToe.Client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Merge_Sort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Merge_two_sorted_array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pivot.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Power_approach_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Power_approach_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Power_approach_3_FastPower.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pre_Sum_problem.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Print_1ToN.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Print_Nto1_desc.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Que_Using_Stack.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QuickSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Rain_water_trapped.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Right_view_tree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sorted_Rotated_array_findTarget.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StudentComparable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubarrayWithSumZero.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Valid_Parenthesis.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Winner_Stone.executor&quot;: &quot;Run&quot;,
-    &quot;Application.count_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.count_sort_positiveNumbersOnly.executor&quot;: &quot;Run&quot;,
-    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.fibonnacii.executor&quot;: &quot;Run&quot;,
-    &quot;Application.find_pairSum_Target.executor&quot;: &quot;Run&quot;,
-    &quot;Application.max_of_slidingWindow.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sortArray.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;parking-lot&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/OneDrive/Desktop/hemant/CODE PRACTICE/Scaler_Coding_1/src/Design_patterns/Factory/Database_v4&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AdvanceDSA_3.LL_Sorting_And_detecting_Loop.Client.executor": "Run",
+    "Application.AdvanceDSA_3.Tree_StructureAndTraversal.Client.executor": "Run",
+    "Application.BS_findFirstOccuranceOfTarget.executor": "Run",
+    "Application.CheckEveryNumber_oneToNumber.executor": "Run",
+    "Application.Check_PrimeOrNot.executor": "Run",
+    "Application.Client.executor": "Run",
+    "Application.Climbing_Stairs.executor": "Run",
+    "Application.Connect_Rope.executor": "Run",
+    "Application.Container_With_Most_water.executor": "Run",
+    "Application.Count_Dist_Element.executor": "Run",
+    "Application.Count_SetBit.executor": "Run",
+    "Application.Design_patterns.Adapter.Client.executor": "Run",
+    "Application.Design_patterns.Creational_design_pattern.Builder.v0_basic.Client.executor": "Run",
+    "Application.Design_patterns.Factory.Assignment_Abstract_Factory_Audio.Client.executor": "Run",
+    "Application.Fibo_TopDown_Approach.executor": "Run",
+    "Application.Fibonacii.executor": "Run",
+    "Application.FindK_inSortedArray.executor": "Run",
+    "Application.Find_Element_in_BST.executor": "Run",
+    "Application.FirstNonRepeatingElement.executor": "Run",
+    "Application.Freq_of_Element_in_Given_Array.executor": "Run",
+    "Application.IncDecArray_FindMax.executor": "Run",
+    "Application.Kedanc_Algorithm.executor": "Run",
+    "Application.Left_view_tree.executor": "Run",
+    "Application.Level_order_traversal.executor": "Run",
+    "Application.Machine_Coding.TicTacToe.Client.executor": "Run",
+    "Application.Merge_Sort.executor": "Run",
+    "Application.Merge_two_sorted_array.executor": "Run",
+    "Application.Pivot.executor": "Run",
+    "Application.Power_approach_1.executor": "Run",
+    "Application.Power_approach_2.executor": "Run",
+    "Application.Power_approach_3_FastPower.executor": "Run",
+    "Application.Pre_Sum_problem.executor": "Run",
+    "Application.Print_1ToN.executor": "Run",
+    "Application.Print_Nto1_desc.executor": "Run",
+    "Application.Que_Using_Stack.executor": "Run",
+    "Application.QuickSort.executor": "Run",
+    "Application.Rain_water_trapped.executor": "Run",
+    "Application.Right_view_tree.executor": "Run",
+    "Application.Sorted_Rotated_array_findTarget.executor": "Run",
+    "Application.StudentComparable.executor": "Run",
+    "Application.SubarrayWithSumZero.executor": "Run",
+    "Application.Valid_Parenthesis.executor": "Run",
+    "Application.Winner_Stone.executor": "Run",
+    "Application.count_sort.executor": "Run",
+    "Application.count_sort_positiveNumbersOnly.executor": "Run",
+    "Application.factorial.executor": "Run",
+    "Application.fibonnacii.executor": "Run",
+    "Application.find_pairSum_Target.executor": "Run",
+    "Application.max_of_slidingWindow.executor": "Run",
+    "Application.sortArray.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "parking-lot",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/admin/OneDrive/Desktop/hemant/CODE PRACTICE/Scaler_Coding_1/src/Design_patterns/Factory/Database_v4",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\OneDrive\Desktop\hemant\CODE PRACTICE\Scaler_Coding_1\src\Design_patterns\Factory\Database_v4" />
@@ -139,13 +242,13 @@
       <recent name="Design_patterns" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Connect_Rope">
-    <configuration name="AdvanceDSA_3.Tree_StructureAndTraversal.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_3.Tree_StructureAndTraversal.Client" />
+  <component name="RunManager" selected="Application.Design_patterns.Creational_design_pattern.Builder.v5_Inner_Class.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_patterns.Creational_design_pattern.Factory.Assignment_Factory_Audio.Client" />
       <module name="Scaler_Coding_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvanceDSA_3.Tree_StructureAndTraversal.*" />
+          <option name="PATTERN" value="Design_patterns.Creational_design_pattern.Factory.Assignment_Factory_Audio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +256,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Connect_Rope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_4.Heap_Introduction.Connect_Rope" />
+    <configuration name="Design_patterns.Creational_design_pattern.Builder.v0_basic.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_patterns.Creational_design_pattern.Builder.v0_basic.Client" />
       <module name="Scaler_Coding_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvanceDSA_4.Heap_Introduction.*" />
+          <option name="PATTERN" value="Design_patterns.Creational_design_pattern.Builder.v0_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +269,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_Element_in_BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_3.BST.Find_Element_in_BST" />
+    <configuration name="Design_patterns.Creational_design_pattern.Builder.v5_Inner_Class.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_patterns.Creational_design_pattern.Builder.v5_Inner_Class.Client" />
       <module name="Scaler_Coding_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvanceDSA_3.BST.*" />
+          <option name="PATTERN" value="Design_patterns.Creational_design_pattern.Builder.v5_Inner_Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +282,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Left_view_tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceDSA_3.Trees_views.Left_view_tree" />
+    <configuration name="Design_patterns.Creational_design_pattern.Factory.Assignment_Abstract_Factory_Audio.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_patterns.Creational_design_pattern.Factory.Assignment_Abstract_Factory_Audio.Client" />
       <module name="Scaler_Coding_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvanceDSA_3.Trees_views.*" />
+          <option name="PATTERN" value="Design_patterns.Creational_design_pattern.Factory.Assignment_Abstract_Factory_Audio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,11 +310,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Design_patterns.Creational_design_pattern.Builder.v5_Inner_Class.Client" />
+        <item itemvalue="Application.Design_patterns.Creational_design_pattern.Builder.v0_basic.Client" />
+        <item itemvalue="Application.Design_patterns.Creational_design_pattern.Factory.Assignment_Abstract_Factory_Audio.Client" />
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.Que_Using_Stack" />
-        <item itemvalue="Application.Left_view_tree" />
-        <item itemvalue="Application.Find_Element_in_BST" />
-        <item itemvalue="Application.Connect_Rope" />
-        <item itemvalue="Application.AdvanceDSA_3.Tree_StructureAndTraversal.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +511,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745831166427</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Completed all models and required enums as per class diagram we designed">
+      <option name="closed" value="true" />
+      <created>1746536428614</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1746536428614</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -457,6 +568,7 @@
     <MESSAGE value="two pointer code added" />
     <MESSAGE value="dsa-3 some code added..." />
     <MESSAGE value="created dsa-4 branch and added connecting rope code of mih-heap data structure..." />
-    <option name="LAST_COMMIT_MESSAGE" value="created dsa-4 branch and added connecting rope code of mih-heap data structure..." />
+    <MESSAGE value="Completed all models and required enums as per class diagram we designed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed all models and required enums as per class diagram we designed" />
   </component>
 </project>

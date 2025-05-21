@@ -2,7 +2,7 @@ package SOLID_Principle.v0;
 
 //bird class is more generic
 //handling all the responsibility of all bird types
-//breaking single responsibility principle
+//breaking single responsibility principle (SRP)
 
 public class Bird {
     private String name;
